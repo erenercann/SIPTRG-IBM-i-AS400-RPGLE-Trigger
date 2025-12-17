@@ -1,0 +1,7 @@
+     A                                      UNIQUE                   
+     A          R SIPR                      TEXT  ('SIPARIS KAYDI')   
+     A            SIPNO         10A         COLHDG('SIPARIS NO')     
+     A            MUSTNO        10A         COLHDG('MUSTERI NO')     
+     A            TARIH           L         COLHDG('SIPARIS TARIHI')
+     A            TUTAR         12P 2       COLHDG('SIPARIS TUTARI') 
+     A          K SIPNO                                              

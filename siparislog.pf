@@ -1,0 +1,12 @@
+     A                                      UNIQUE                     
+     A          R LOGR                      TEXT  ('SIPARIS LOG KAYDI')  
+     A            LOGID         10P 0       COLHDG('LOG ID') EDTCDE(Z) 
+     A            SIPNO         10A         COLHDG('SIPARIS NO')       
+     A            MUSTNO        10A         COLHDG('MUSTERI NO')       
+     A            TARIH           L         COLHDG('SIPARIS TARIHI')   
+     A            TUTAR         12P 2       COLHDG('SIPARIS TUTARI')   
+     A            ISLEMTIP      10A         COLHDG('ISLEM TIPI')       
+     A            ISLEMTAR        L         COLHDG('ISLEM TARIHI')     
+     A            ISLEMSAAT       T         COLHDG('ISLEM SAATI')      
+     A            KULLANICI     10A         COLHDG('KULLANICI')        
+     A          K LOGID                                                
